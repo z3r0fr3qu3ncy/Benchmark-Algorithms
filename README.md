@@ -12,27 +12,6 @@ https://user-images.githubusercontent.com/60437881/73456371-aeb5d280-4369-11ea-9
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tabular output
 
 
