@@ -11,6 +11,28 @@ Graph output screens
 https://user-images.githubusercontent.com/60437881/73456371-aeb5d280-4369-11ea-92e7-09d213a5b3fb.png
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tabular output
 
 
